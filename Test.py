@@ -18,4 +18,4 @@ st.write(f"Angka pertama {angka_pertama} - Angka kedua {angka_kedua} = {operasi_
 st.write(f"Angka pertama {angka_pertama} / Angka kedua {angka_kedua} = {operasi_matematika_pembagian}")
 st.write(f"Angka pertama {angka_pertama} x Angka kedua {angka_kedua} = {operasi_matematika_perkalian}")
 
-st.image("https://img-cdn.medkomtek.com/RGGtwKmL7MT5n-Mq3S6Vxsxjii4=/730x411/smart/filters:quality(100):format(webp)/article/GoeMvuxiFO6EOd15bez8g/original/1679298892-sumber%20karbohidrat.jpg", width=300)
+st.image("https://img-cdn.medkomtek.com/RGGtwKmL7MT5n-Mq3S6Vxsxjii4=/730x411/smart/filters:quality(100):format(webp)/article/GoeMvuxiFO6EOd15bez8g/original/1679298892-sumber%20karbohidrat.jpg", width=300)
